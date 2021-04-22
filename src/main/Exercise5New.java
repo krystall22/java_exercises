@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Exercise5New {
 	public static void main(String[] args) {
+		//
 		int[] myArr = inputArray();
 
 		outputArray(myArr);
