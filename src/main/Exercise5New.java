@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Exercise5New {
 	public static void main(String[] args) {
-		//
+		// nop bai tap buoi 5
 		int[] myArr = inputArray();
 
 		outputArray(myArr);
